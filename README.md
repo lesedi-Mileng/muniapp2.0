@@ -1,0 +1,1 @@
+A new and improved municipality application with better functionality. Built a desktop application to manage municipal operations, including clients, officers, services, and service requests. Features included request approval and assignment, service tracking, and reporting of top services rendered. Focused on maintaining entity relationships and efficient data handling.
